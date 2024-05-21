@@ -1,0 +1,30 @@
+:root {
+  --border-color: #e1e7ed;
+  --text-color: #3d4e61;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: Avenir, sans-serif;
+  src: url("Avenir-Book.21abf061.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Avenir, sans-serif;
+  src: url("Avenir-Heavy.9246a2b0.ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+html {
+  font-family: Avenir, sans-serif;
+  font-size: 16px;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
